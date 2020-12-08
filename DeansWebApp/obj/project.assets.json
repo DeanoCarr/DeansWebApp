@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deano\\source\\repos\\DeansWebApp\\DeansWebApp\\DeansWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\deano\\Source\\Repos\\DeanoCarr\\DeansWebApp\\DeansWebApp\\DeansWebApp.csproj",
       "projectName": "DeansWebApp",
-      "projectPath": "C:\\Users\\deano\\source\\repos\\DeansWebApp\\DeansWebApp\\DeansWebApp.csproj",
+      "projectPath": "C:\\Users\\deano\\Source\\Repos\\DeanoCarr\\DeansWebApp\\DeansWebApp\\DeansWebApp.csproj",
       "packagesPath": "C:\\Users\\deano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deano\\source\\repos\\DeansWebApp\\DeansWebApp\\obj\\",
+      "outputPath": "C:\\Users\\deano\\Source\\Repos\\DeanoCarr\\DeansWebApp\\DeansWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deano\\AppData\\Roaming\\NuGet\\NuGet.Config",
